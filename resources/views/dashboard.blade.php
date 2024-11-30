@@ -80,7 +80,6 @@
         
       </li>
     </ul>
-    <p class="litle">logado como</p>
     {{$nome}}
     <a class="nav-link float-right" href="{{route('usuarios.logout')}}">sair</a>
   </div>
